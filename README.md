@@ -20,7 +20,8 @@ Jefferson= 10.5%
 Election-Audit Summary:
 The screenshot below show the code to get the information above. 
 
-Total Votes:<img width="410" alt="Screen Shot 2022-05-01 at 11 28 15 PM" src="https://user-images.githubusercontent.com/102995385/166193985-0cdc3922-20b2-4949-abc2-a830cb518914.png">
+Total Votes:
+<img width="410" alt="Screen Shot 2022-05-01 at 11 28 15 PM" src="https://user-images.githubusercontent.com/102995385/166193985-0cdc3922-20b2-4949-abc2-a830cb518914.png">
 
 Winner of elction, vote count and winning percentages:<img width="551" alt="Screen Shot 2022-05-01 at 11 26 41 PM" src="https://user-images.githubusercontent.com/102995385/166193982-77508a69-9f21-4e84-95e8-fa2cf5de28ca.png">
 
